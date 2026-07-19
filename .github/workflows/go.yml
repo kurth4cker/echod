@@ -20,8 +20,6 @@ jobs:
       matrix:
         go-version:
         - '1.24'
-        - '1.25'
-        - 'stable'
         - '1.x'
 
     steps:
